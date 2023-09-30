@@ -1,0 +1,100 @@
+body {
+  background: #222;
+  color: #fff;
+}
+.form-control {
+  width: 75%;
+  border: #888 solid 1px;
+  background: #222;
+  color: #fff;
+}
+.form-control::placeholder {
+  color: #666;
+}
+.form-control:focus {
+  background: #333;
+  color: #fff;
+  outline: 0;
+}
+
+legend {
+  transform: translatey(-24px);
+  font-size: 16px;
+  width: fit-content;
+  background: #111;
+  padding: 0 10px 0 10px;
+  border: 1px solid #555;
+  color: #ddd;
+}
+.legendMore {
+  transform: translatey(50px);
+  font-weight: 700;
+  color: #fff;
+  background: #222;
+  border: 1px #222 solid;
+}
+.fieldBody {
+  transform: translatey(-24px);
+  opacity: 1;
+}
+fieldset {
+  margin-top: 2em;
+  width: 70%;
+  padding: 10px 4em 0 10px;
+  border: solid 1px #555;
+  margin-bottom: 1em;
+  border-radius: 5px;
+}
+input {
+  margin: 0.5em;
+}
+#seed {
+  display: inline;
+}
+#guidance,
+#inference {
+  position: absolute;
+  font-weight: 700;
+  transform: translatey(-16px) translatex(10px);
+  font-size: 25px;
+}
+#inferenceSlider,
+#guide {
+  transform: translatey(-20px);
+}
+label {
+  font-weight: 700;
+}
+.btn-generate {
+  font-weight: 600;
+  font-size: 18px;
+  transform: translatex(-1em);
+}
+textarea {
+  margin: 0.5em;
+  height: fit-content;
+}
+.debug {
+  font-size: 10px;
+  opacity: 0.5;
+}
+
+.helper {
+  transform: translatey(-5px);
+  transform: translatex(5px);
+  margin-left: 0.5em;
+  font-size: 10px;
+  opacity: 0.5;
+  line-height: 12px;
+}
+.form-select {
+  background: #222;
+  color: #fff;
+}
+#dump {
+  font-size: 1px;
+  transform: scale(0.1);
+  height: 1px;
+  overflow: hidden;
+  opacity: 0;
+}
