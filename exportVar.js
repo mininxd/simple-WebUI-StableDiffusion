@@ -1,0 +1,14 @@
+export let inputSeed = document.getElementById("seed");
+export let input = document.getElementById("input");
+export let inputNegative = document.getElementById("inputNegative");
+export let generateBtn = document.getElementById("btn");
+export let fileType = document.getElementsByName("fileType").selected;
+export let model = document.getElementById("model");
+export let scheduler = document.getElementById("scheduler");
+export let getRandSeed = document.getElementById("getRandSeed");
+export let negativeTemplate = document.getElementById("negativeTemplate");
+export let spinnerGen = document.getElementById("spinner1");
+export let loadingResult = document.getElementById("loadingResult");
+export let result = document.getElementById("result");
+export let dumpTxt = document.getElementById("dumptxt");
+export let resultImg = document.getElementById("resultImage");
