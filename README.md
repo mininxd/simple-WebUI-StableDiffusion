@@ -1,5 +1,5 @@
-## Simple WebUI StableDiffusion
-> Repositori ini ramah lingkungan, yaitu ramah untuk spek device seadanya, karena load website begitu cepat karena file kodingan berbasis HTML murni
+# Simple WebUI StableDiffusion
+> ***Saya berani menjamin bahwa, repositori ini ramah lingkungan, yaitu ramah untuk device seadanya, karena load website begitu cepat karena file kodingan berbasis HTML murni tanpa menjalankan node js***
 
  ## Quick Start
 
