@@ -1,4 +1,4 @@
-# Simple WebUI Text-to-Image
+## Simple WebUI StableDiffusion
 > Repositori ini ramah lingkungan, yaitu ramah untuk spek device seadanya, karena load website begitu cepat karena file kodingan berbasis HTML murni
 
  ## Quick Start
