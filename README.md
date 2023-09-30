@@ -27,3 +27,4 @@ Kamu bisa lihat hasilnya disini [obfuscatorExample.js](https://github.com/Mininx
 
 #### ***Selain pakai vercel, kamu bisa pakai GithubPages untuk host websitenya***
 
+  [![Donate - Saweria](https://img.shields.io/badge/Donate-Saweria-2ea44f?style=for-the-badge)](https://saweria.co/mininxd)
