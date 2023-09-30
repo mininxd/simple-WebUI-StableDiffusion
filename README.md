@@ -10,8 +10,9 @@
 
  ### Buka [Fal AI Dashboard](https://fal.ai/dashboard/)
  Login pakai akun github kamu, lalu Create API Key Secret 
- ![Screenshot_20230930-213803~2](https://github.com/MininxD/simple-WebUI-StableDiffusion/assets/70429604/03faf06c-0daa-43b8-88bb-31f75bc0e0bf)
+![Screenshot_20230930-213803~2](https://github.com/MininxD/simple-WebUI-StableDiffusion/assets/70429604/9056f354-1a1e-4563-8bbb-6a388b1d687c)
 
+ 
 copy kode tersebut dan taruh pada [Auth.js](https://github.com/MininxD/simple-WebUI-StableDiffusion/blob/main/components/auth.js)
 ```javascript
 export let auth = "API Key";
