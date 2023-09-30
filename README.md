@@ -21,6 +21,8 @@ export let auth = "API Key";
 kamu bisa pakai **JS obfuscator**<br>
 [Via Online](https://obfuscator.io/)
 atau bisa pakai [Modul NPM](https://www.npmjs.com/package/javascript-obfuscator)
+
+Kamu bisa lihat hasilnya disini [obfuscatorExample.js](https://github.com/MininxD/simple-WebUI-StableDiffusion/blob/main/components/obfuscatorExample.js)
 <hr>
 
 #### ***Selain pakai vercel, kamu bisa pakai GithubPages untuk host websitenya***
